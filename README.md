@@ -4,7 +4,7 @@ heroImage: https://placeimg.com/800/500/nature
 actionText: Installation →
 actionLink: /installation
 features:
-- title: En Markdown
+- title: Markdown
   details: Avec quelques lignes de configuration et des fichiers Markdown, vous vous concentrez sur le contenu de votre documentation.
 - title: Vue
   details: VuePress fonctionne avec Vue et il est possible de créer des composants Vue pour répondre à un besoin spécifique.
