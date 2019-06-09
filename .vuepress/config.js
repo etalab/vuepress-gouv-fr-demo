@@ -4,7 +4,8 @@ sidebar = [
     collapsable: false,
     children: [
       'installation',
-      'markdown'
+      'markdown',
+      'contribuer'
     ]
   },
   {
