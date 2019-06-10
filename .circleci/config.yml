@@ -15,6 +15,10 @@ workflows:
   cron:
     triggers:
       - schedule:
-          cron: "10 */3 * * *"
+          cron: "10 6,9,12,15,18,21 * * *"
+          filters:
+            branches:
+              only:
+                - master
     jobs:
       - build
