@@ -17,3 +17,6 @@ module.exports = {
 ```
 
 Pour plus d'informations, reportez-vous à [la procédure d'installation de VuePress](https://vuepress.vuejs.org/guide/getting-started.html).
+
+## Template GitHub
+Vous pouvez initer un nouveau répertoire Git sur GitHub à partir de ce dépôt de démonstration [en un clic](https://github.com/etalab/vuepress-gouv-fr-demo/generate).
