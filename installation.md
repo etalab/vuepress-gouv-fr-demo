@@ -1,8 +1,11 @@
 # Installation
+![npm](https://img.shields.io/npm/v/vuepress-theme-gouv-fr.svg?style=flat-square)
+![npm](https://img.shields.io/npm/dy/vuepress-theme-gouv-fr.svg?style=flat-square)
+
 Ce thème fonctionne avec la `v0` de VuePress.
 
 ## Procédure
-Ajouter le package à la liste des dépendances.
+Ajouter le package à la liste des dépendances en le récupérant [depuis npm](https://www.npmjs.com/package/vuepress-theme-gouv-fr).
 
 ```bash
 yarn add vuepress-theme-gouv-fr
