@@ -4,6 +4,7 @@ sidebar = [
     collapsable: false,
     children: [
       'installation',
+      'configuration',
       'contribuer',
       'markdown'
     ]
