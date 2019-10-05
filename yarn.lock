@@ -4695,9 +4695,9 @@ mississippi@^3.0.0:
     through2 "^2.0.0"
 
 mixin-deep@^1.2.0:
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/mixin-deep/-/mixin-deep-1.3.1.tgz#a49e7268dce1a0d9698e45326c5626df3543d0fe"
-  integrity sha512-8ZItLHeEgaqEvd5lYBXfm4EZSFCX29Jb9K+lAHhDKzReKBQKj3R+7NOF6tjqYi9t4oI8VUfaWITJQm86wnXGNQ==
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/mixin-deep/-/mixin-deep-1.3.2.tgz#1120b43dc359a785dce65b55b82e257ccf479566"
+  integrity sha512-WRoDn//mXBiJ1H40rqa3vH0toePwSsGb45iInWlTySa+Uu4k3tYUSxa2v1KqAiLtvlrSzaExqS1gtk96A9zvEA==
   dependencies:
     for-in "^1.0.2"
     is-extendable "^1.0.1"
@@ -7223,10 +7223,10 @@ vuepress-html-webpack-plugin@^3.2.0:
     toposort "^1.0.0"
     util.promisify "1.0.0"
 
-vuepress-theme-gouv-fr@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/vuepress-theme-gouv-fr/-/vuepress-theme-gouv-fr-0.3.0.tgz#2c2a1ec0b53e5549872528e13e7ff0a12a5929b9"
-  integrity sha512-qP5XR5v66JC6X42CPgxKkNVThB5cv+VnmsiVH5wZ4RrUTFGPbI4ewv+4vE6B8mEYkRqDreW+bMb3X/8WFc+UaQ==
+vuepress-theme-gouv-fr@*:
+  version "0.7.1"
+  resolved "https://registry.yarnpkg.com/vuepress-theme-gouv-fr/-/vuepress-theme-gouv-fr-0.7.1.tgz#b5e863fbc2c9ea1e61eb55b98cb49f6441abc8fe"
+  integrity sha512-KDSqQ9S+E5N1xCtN+8tBSNFiL+qDffBekMEC/fUEfQBcbZekpGXAj+x/xc8NtIPEPP2TRioTfr5hQpkwJz32fA==
 
 vuepress@^0.14.11:
   version "0.14.11"
